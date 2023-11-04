@@ -7,7 +7,7 @@ const Header = () => {
     const navigate = useNavigate()
 
     const nav = () => {
-        navigate('')
+        navigate('/piano')
     }
 
     return (

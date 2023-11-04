@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
-import {Container, Grid, Paper} from "@mui/material";
+import {Grid} from "@mui/material";
 import s from "./itemsPage.module.css"
-import {useNavigate} from "react-router-dom";
 import FiberManualRecordIcon from '@mui/icons-material/FiberManualRecord';
 import {Item} from "../../components/Item";
 
@@ -16,7 +15,7 @@ export const ItemsPage = () => {
     const [toItem,setToItem]=useState<number>(6)
 
 
-
+    // Setting the fromItem and toItem based on the provided values
     const offset = (setFrom:number, setTo:number) => {
       setFromItem(setFrom)
       setToItem(setTo)

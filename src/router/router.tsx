@@ -7,21 +7,21 @@ import MainLayout from "../layout/mainLayout/mainLayout";
 import {ItemsPage} from "../pages/itemsPage";
 import MainView from "../pages/MainView/mainView";
 
-
+// Defining an array of private routes, which will be used by the router
 
 const privateRoutes: RouteObject[] = [
     {
-        path: "/",
-        element: <ItemsPage />,
+        path: "piano", // URL path for the piano page
+        element: <ItemsPage />, // Component to be rendered for the piano page
     },
     {
-        path: "/mainView",
-        element: <MainView />,
+        path: "/mainView", // URL path for the mainView page
+        element: <MainView />, // Component to be rendered for the MainView page
     },
 
 ];
 
-
+// Creating the router with the defined routes
 const router = createBrowserRouter([
     {
         path: "/",
@@ -31,7 +31,7 @@ const router = createBrowserRouter([
 
 ]);
 
-
+// Exporting the Router component, which provides the router context to the application
 export const Router = () => {
     return <RouterProvider router={router} />;
 };

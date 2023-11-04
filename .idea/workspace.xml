@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c4a318e-edb0-4cd2-b918-b129695b05c0" name="Changes" comment="ok" />
+    <list default="true" id="7c4a318e-edb0-4cd2-b918-b129695b05c0" name="Changes" comment="ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Item/item.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Item/item.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rangeSelector/rangeSelector.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rangeSelector/rangeSelector.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/mainLayout/mainLayout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/mainLayout/mainLayout.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MainView/mainView.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainView/mainView.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MainView/mainView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainView/mainView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/itemsPage/itemsPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/itemsPage/itemsPage.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/itemsPage/itemsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/itemsPage/itemsPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/router.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +43,7 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2XRh4mwiuPeCe2lj9YYhWcLkt1T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,7 +75,7 @@
       <recent name="C:\Users\Yura\WebstormProjects\piano\src\components" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -106,6 +119,7 @@
       <workItem from="1698871127466" duration="15620000" />
       <workItem from="1698950705609" duration="5435000" />
       <workItem from="1699084308831" duration="4760000" />
+      <workItem from="1699089899095" duration="9501000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <option name="closed" value="true" />

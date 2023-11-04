@@ -4,29 +4,22 @@
     align-items: center;
     flex-direction: column;
     border: 1px solid;
+    border-radius: 5px;
     height: 60vh;
     width:80vh;
+    margin: 15em 15em 0 15em;
 
 }
 
 
 @media only screen and (max-width: 720px) {
     .box {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        height: 70%;
-        width: 60vh;
-        margin: 10vh 150px 0 10vh;
+
+
     }
     .item_box{
         right: 50%;
     }
-    body{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+
 
 }

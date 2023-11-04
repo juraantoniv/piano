@@ -8,15 +8,15 @@ import {Format} from "devextreme-react/chart";
 
 export const RangeSelectorComponent=memo(()=> {
 
-
+    // Function to format the text displayed in the slider marker
     function formatText(valueText:string, value:string) {
         console.log(value);
-        return `${valueText} min`;
+        return `${valueText} min`; // Returning the formatted text with "min" appended
     }
-
+// Event handler for when values change in the range selector
     const onValuesChangeHandler = (value: (string | number | Date)[]) => {
 
-        console.log(value);
+        console.log(value); // Logging the values to the console
     }
 
     return (
