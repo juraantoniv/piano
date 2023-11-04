@@ -1,0 +1,17 @@
+.App{
+  margin: 5% 0 20% 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /*width: 90vh;*/
+  height: 70vh;
+}
+
+@media only screen and (max-width: 720px) {
+  .App {
+    height: auto;
+    width: 70%;
+    margin: 15% 20% 0 20%;
+  }
+}
