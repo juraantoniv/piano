@@ -7,15 +7,7 @@
     <list default="true" id="7c4a318e-edb0-4cd2-b918-b129695b05c0" name="Changes" comment="ok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Item/item.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Item/item.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/rangeSelector/rangeSelector.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rangeSelector/rangeSelector.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/mainLayout/mainLayout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/mainLayout/mainLayout.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/MainView/mainView.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainView/mainView.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/MainView/mainView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainView/mainView.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/itemsPage/itemsPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/itemsPage/itemsPage.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/itemsPage/itemsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/itemsPage/itemsPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/router.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +111,8 @@
       <workItem from="1698871127466" duration="15620000" />
       <workItem from="1698950705609" duration="5435000" />
       <workItem from="1699084308831" duration="4760000" />
-      <workItem from="1699089899095" duration="9501000" />
+      <workItem from="1699089899095" duration="11545000" />
+      <workItem from="1699190937595" duration="1057000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <option name="closed" value="true" />
@@ -169,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699088585163</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ok">
+      <option name="closed" value="true" />
+      <created>1699124174251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699124174251</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
