@@ -7,7 +7,6 @@ import {Container, Grid} from "@mui/material";
 function App() {
   return (
     <Container className="App">
-
       <Router />
     </Container>
   );
